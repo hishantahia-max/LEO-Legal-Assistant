@@ -1,0 +1,5 @@
+{
+  "name": "LEO Legal Assistant ",
+  "description": "A React web application that indexes, OCRs, and intelligently renames documents using Gemini 1.5 Flash, bringing the AutoDoc Android concept to the web.",
+  "requestFramePermissions": []
+}
